@@ -1,10 +1,7 @@
-Perfecto 💪 Jeffersson.
-Aquí tienes tu **README.md profesional y 100 % adaptado** a tu proyecto actual, con tu nombre, URL real del repo y formato limpio para GitHub.
-Incluye emojis, estructura clara, comandos corregidos y detalles técnicos precisos.
 
 ---
 
-```markdown
+````markdown
 # 🐶 Clasificador de Razas de Perros con Redes Neuronales Convolucionales (CNN)
 
 Proyecto desarrollado como parte del **AWS AI & Machine Learning Scholarship Nanodegree – Udacity**.  
@@ -45,7 +42,7 @@ en la tarea de clasificación de imágenes de mascotas (razas de perros) usando 
 │   └── requirements.txt                # Dependencias del proyecto
 │
 └── README.md                           # Este archivo
-
+````
 
 ---
 
@@ -56,7 +53,7 @@ en la tarea de clasificación de imágenes de mascotas (razas de perros) usando 
 ```bash
 git clone https://github.com/JPretellEco/JPretellEco-Clasificador_Perros_CNN_RedNeuronal.git
 cd JPretellEco-Clasificador_Perros_CNN_RedNeuronal
-````
+```
 
 ### 2️⃣ Crear un entorno virtual (opcional pero recomendado)
 
@@ -115,11 +112,11 @@ El script imprime estadísticas como:
 
 ## 🧠 Modelos Utilizados
 
-| Modelo       | Dataset Base | Parámetros aprox. | Características principales         |
-| ------------ | ------------ | ----------------- | ----------------------------------- |
-| **ResNet18** | ImageNet     | 11.7M             | Capas residuales, alto rendimiento. |
-| **AlexNet**  | ImageNet     | 61M               | Pionero en CNN, rápido y ligero.    |
-| **VGG16**    | ImageNet     | 138M              | Alta precisión, pero más pesado.    |
+| Modelo       | Dataset Base | Parámetros aprox. | Características principales        |
+| ------------ | ------------ | ----------------: | ---------------------------------- |
+| **ResNet18** | ImageNet     |             11.7M | Capas residuales, alto rendimiento |
+| **AlexNet**  | ImageNet     |               61M | Pionero en CNN, rápido y ligero    |
+| **VGG16**    | ImageNet     |              138M | Alta precisión, pero más pesado    |
 
 ---
 
@@ -137,11 +134,3 @@ Desarrollado en **Python 3.12 + PyTorch** sobre **Ubuntu 22.04 LTS**.
 
 ---
 
-### ⭐ Si este proyecto te resultó útil, considera dejar una estrella en el repositorio.
-
-```
-
----
-
-¿Quieres que te genere también el `requirements.txt` actualizado con las dependencias exactas (torch, torchvision, pillow, etc.) para subir junto con este README?
-```
