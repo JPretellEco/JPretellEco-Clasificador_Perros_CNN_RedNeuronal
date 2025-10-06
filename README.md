@@ -15,8 +15,7 @@ en la tarea de clasificación de imágenes de mascotas (razas de perros) usando 
 
 ## 📁 Estructura del Proyecto
 
-```
-
+```bash
 ├── data/
 │   ├── pet_images/                     # Carpeta con imágenes de entrenamiento y prueba
 │   ├── uploaded_images/                # Carpeta para imágenes nuevas (subidas por el usuario)
@@ -47,7 +46,6 @@ en la tarea de clasificación de imágenes de mascotas (razas de perros) usando 
 │
 └── README.md                           # Este archivo
 
-````
 
 ---
 
