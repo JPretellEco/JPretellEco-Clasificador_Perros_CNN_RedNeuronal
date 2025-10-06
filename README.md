@@ -143,3 +143,6 @@ Este proyecto está bajo la **Licencia MIT** – ver el archivo [LICENSE](https:
 ## 👨‍💻 Autor
 
 **Jeffersson Pretell D.** Proyecto académico del *AWS AI & Machine Learning Nanodegree – Udacity* Desarrollado en **Python 3.12 + PyTorch** sobre **Ubuntu 22.04 LTS**.
+
+<img width="1451" height="515" alt="image" src="https://github.com/user-attachments/assets/ed619a8c-f982-41cc-b6bd-7d9023c248cc" />
+
