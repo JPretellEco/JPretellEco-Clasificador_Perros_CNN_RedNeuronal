@@ -1,7 +1,3 @@
-Claro, he integrado la tabla de resultados de la imagen en tu archivo `README.md`, convirtiéndola a formato Markdown para que sea texto nativo y fácil de leer. También he reestructurado ligeramente la sección para presentar los resultados de forma más clara.
-
-Aquí tienes el `README.md` actualizado:
-
 -----
 
 # 🐶 Clasificador de Razas de Perros con Redes Neuronales Convolucionales (CNN)
